@@ -1,8 +1,12 @@
 👋 Hi, I’m Thilak Chandra Bose
+
 Data Analyst | SQL | Python | Power BI | AWS | Business Intelligence
+
 Welcome to my Data Analyst Portfolio!
+
 This repository showcases my end-to-end data analytics projects, demonstrating my ability to transform raw data into actionable business insights using SQL, Python, Power BI, Excel, and AWS.
 👨‍💼 About Me
+
 I have 5+ years of experience at Amazon working in Pricing Analytics, Business Intelligence, and Process Automation. My work has involved analyzing large datasets, building dashboards, identifying business trends, and supporting data-driven decision-making.
 I am passionate about solving business problems through data and continuously expanding my analytical and technical skills.
 ________________________________________
