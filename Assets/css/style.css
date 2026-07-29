@@ -67,8 +67,13 @@ nav ul li a:hover{
 ========================== */
 
 .hero{
+    max-width:1000px;
+    margin:60px auto;
     text-align:center;
-    padding:90px 20px;
+    background:white;
+    padding:70px 40px;
+    border-radius:15px;
+    box-shadow:0 5px 15px rgba(0,0,0,.08);
 }
 
 .hero h1{
@@ -139,6 +144,14 @@ section h2{
     font-size:32px;
 }
 
+.about-card{
+    max-width:900px;
+    margin:auto;
+    background:#ffffff;
+    padding:35px;
+    border-radius:12px;
+    box-shadow:0 5px 15px rgba(0,0,0,.08);
+}
 /* ==========================
    PROJECTS
 ========================== */
