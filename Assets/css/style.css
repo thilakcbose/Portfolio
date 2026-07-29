@@ -234,3 +234,8 @@ section{
 }
 
 }
+
+nav a.active{
+    color:#2563eb;
+    font-weight:600;
+}
