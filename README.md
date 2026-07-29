@@ -12,27 +12,33 @@ I have 5+ years of experience at Amazon working in Pricing Analytics, Business I
 I am passionate about solving business problems through data and continuously expanding my analytical and technical skills.
 ________________________________________
 🛠 Technical Skills
+
 Programming & Querying
 
 •	SQL
 •	Python
+
 Business Intelligence
 
 •	Power BI
 •	Amazon QuickSight
 •	Advanced Excel
 •	Power Query
+
 Databases
 
 •	Amazon Redshift
+
 Python Libraries
 
 •	Pandas
 •	NumPy
 •	Matplotlib
+
 Cloud
 
 •	AWS (S3, Athena, Glue - Fundamentals)
+
 Analytics
 
 •	Data Cleaning
@@ -43,20 +49,21 @@ Analytics
 •	Business Intelligence
 ________________________________________
 📂 Portfolio Projects
-This portfolio includes projects covering:
+
+This portfolio includes projects:
 
 •	SQL Data Analysis
 •	Power BI Dashboards
 •	Python Data Analysis
 •	Exploratory Data Analysis (EDA)
 
-Each project contains:
+Project contains:
 
 •	Business Problem
 •	Dataset
 •	Data Cleaning
 •	SQL/Python Analysis
-•	Dashboard (where applicable)
+•	Dashboard
 •	Key Insights
 •	Business Recommendations
 ________________________________________
