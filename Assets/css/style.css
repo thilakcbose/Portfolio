@@ -35,7 +35,7 @@ nav{
 }
 
 .logo{
-    font-size:24px;
+    font-size:28px;
     font-weight:700;
     color:#2563eb;
 }
@@ -171,7 +171,8 @@ section h2{
 }
 
 .project:hover{
-    transform:translateY(-6px);
+    transform:translateY(-8px);
+    box-shadow:0 12px 25px rgba(37,99,235,.18);
 }
 
 .project h3{
