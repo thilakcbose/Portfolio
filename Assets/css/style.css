@@ -97,6 +97,14 @@ nav ul li a:hover{
     margin-bottom:30px;
 }
 
+.hero-text{
+    max-width:650px;
+    margin:20px auto 35px;
+    font-size:1.1rem;
+    line-height:1.8;
+    color:#d1d5db;
+}
+
 /* ==========================
    BUTTONS
 ========================== */
