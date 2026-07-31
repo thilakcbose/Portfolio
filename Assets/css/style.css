@@ -214,13 +214,13 @@ section h2::after{
 }
 
 .tech-stack span{
-    background:#eef4ff;
-    color:#2563eb;
-    border:1px solid #d7e4ff;
-    padding:5px 10px;
+    background:#f5f5f5;
+    color:#222;
+    border:1px solid #e5e7eb;
+    padding:6px 12px;
     border-radius:20px;
     font-size:12px;
-    font-weight:600;
+    font-weight:700;
 }
 
 /* ==========================
