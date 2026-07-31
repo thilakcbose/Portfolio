@@ -196,9 +196,9 @@ section h2::after{
 }
 
 .tech-stack span{
-    background:#f8f9fa;
-    color:#333;
-    border:none;
+    background:#f3f4f6;
+    color:#222;
+    border:1px solid #e5e7eb;
     padding:6px 12px;
     border-radius:20px;
     font-size:12px;
