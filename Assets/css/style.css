@@ -342,18 +342,37 @@ section{
 nav a.active{
     color:#2563eb;
     font-weight:600;
-}
-.contact-card h2{
+/* Hero title alignment */
+.hero h2{
     text-align:center;
-    margin-bottom:20px;
-    position:relative;
+    font-size:32px;
+    font-weight:600;
+    color:#555;
+    margin:15px 0 25px;
 }
-.contact-card h2::after{
+
+.hero h2::after{
     content:"";
     display:block;
-    width:80px;
+    width:70px;
     height:4px;
     background:#2563eb;
     margin:12px auto 0;
-    border-radius:5px;
+    border-radius:3px;
+}
+
+/* Contact heading alignment */
+.contact-card h2{
+    text-align:center;
+    margin-bottom:25px;
+}
+
+.contact-card h2::after{
+    content:"";
+    display:block;
+    width:70px;
+    height:4px;
+    background:#2563eb;
+    margin:12px auto 0;
+    border-radius:3px;
 }
