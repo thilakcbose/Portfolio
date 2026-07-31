@@ -196,13 +196,13 @@ section h2::after{
 }
 
 .tech-stack span{
-    background:#eef4ff;
-    color:#2563eb;
-    border:1px solid #d7e4ff;
-    padding:5px 10px;
+    background:#f8f9fa;
+    color:#333;
+    border:none;
+    padding:6px 12px;
     border-radius:20px;
     font-size:12px;
-    font-weight:600;
+    font-weight:700;
 }
 
 /* ==========================
