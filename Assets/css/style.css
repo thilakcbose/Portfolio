@@ -188,25 +188,21 @@ section h2::after{
 .skills span{
     color:#2563eb;
 }
-/* ==========================
-   TECH STACK
-========================== */
-
 .tech-stack{
     display:flex;
     flex-wrap:wrap;
-    gap:10px;
-    margin:15px 0 20px;
+    gap:8px;
+    margin:12px 0 15px;
 }
 
 .tech-stack span{
-    background:#f5f5f5;
+    background:#f3f4f6;
     color:#222;
-    padding:6px 14px;
+    border:1px solid #e5e7eb;
+    padding:6px 12px;
     border-radius:20px;
-    font-size:13px;
+    font-size:12px;
     font-weight:700;
-    border:1px solid #e5e5e5;
 }
 
 /* ==========================
@@ -240,7 +236,8 @@ section h2::after{
 }
 
 .project:hover{
-    transform:translateY(-6px);
+    transform:translateY(-10px);
+    box-shadow:0 18px 35px rgba(37,99,235,.18);
 }
 
 .project h3{
