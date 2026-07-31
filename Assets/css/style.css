@@ -67,8 +67,8 @@ nav ul li a:hover{
 ========================== */
 
 .hero{
-    max-width:1000px;
-    margin:60px auto;
+    max-width:1200px;
+    margin:auto;
     text-align:center;
     background:white;
     padding:70px 40px;
@@ -179,21 +179,14 @@ section h2::after{
    SKILLS BADGES
 ========================== */
 .skills{
-    display:flex;
-    justify-content:center;
-    gap:15px;
-    flex-wrap:wrap;
+    text-align:center;
     margin:25px 0;
+    font-size:22px;
+    font-weight:600;
 }
 
 .skills span{
-    background:#2563eb;
-    color:white;
-    padding:8px 18px;
-    border-radius:30px;
-    font-weight:600;
-    font-size:15px;
-    box-shadow:0 4px 10px rgba(37,99,235,.2);
+    color:#2563eb;
 }
 .tech-stack{
     display:flex;
